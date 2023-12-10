@@ -7,3 +7,5 @@ phases:
        - ls -al
        - pwd
        - df -h
+       - free -m
+
